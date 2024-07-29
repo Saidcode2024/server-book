@@ -1,6 +1,6 @@
 var server_filter = [
     /*n1*/ 'التنمية البشرية وتطوير الذات',
-
+    /*n2*/ 'علم النفس',
 ]
 var server_books = {}
 var img_load = "https://drive.google.com/thumbnail?id="
