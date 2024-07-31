@@ -11,13 +11,13 @@ var img_load = "https://drive.google.com/thumbnail?id="
 // n0
 server_books[0] = [
     /*n1*/ [
-        /*img*/  img_load + '1C-D2dApVTTfBrY3D2tQf7Esq7xAlsT67' ,
+        /*img*/  img_load + '1C-D2dApVTTfBrY3D2tQf7Esq7xAlsT67&sz=w500-h735' ,
         /*name*/ 'كتاب كيف تؤثر على الآخرين وتكتسب الأصدقاء',
         /*have*/ 'ديل كارنيجي',
         /*page*/ 'html/كتاب_كيف_تؤثر_على_الآخرين_وتكتسب_الأصدقاء.html'
     ] ,
     /*n2*/ [
-        /*img*/  img_load + '1CwNkDKVmpK1SQUSODbAPLke8ASUE0Gnu' ,
+        /*img*/  img_load + '1DxpifjKUCOKwrML2sFRg75JNSYdKyAbK&sz=w500-h735' ,
         /*name*/ 'كتاب شجاعة أن تكون غير محبوب',
         /*have*/ 'مجموعة مؤلفين',
         /*page*/ 'html/كتاب_شجاعة_أن_تكون_غير_محبوب.html'
@@ -26,13 +26,13 @@ server_books[0] = [
 // n1
 server_books[1] = [
     /*n1*/ [
-        /*img*/  img_load + '1C-D2dApVTTfBrY3D2tQf7Esq7xAlsT67' ,
+        /*img*/  img_load + '1C-D2dApVTTfBrY3D2tQf7Esq7xAlsT67&sz=w500-h735' ,
         /*name*/ 'كتاب كيف تؤثر على الآخرين وتكتسب الأصدقاء',
         /*have*/ 'ديل كارنيجي',
         /*page*/ 'html/كتاب_كيف_تؤثر_على_الآخرين_وتكتسب_الأصدقاء.html'
     ] ,
     /*n2*/ [
-        /*img*/  img_load + '1CwNkDKVmpK1SQUSODbAPLke8ASUE0Gnu' ,
+        /*img*/  img_load + '1DxpifjKUCOKwrML2sFRg75JNSYdKyAbK&sz=w500-h735' ,
         /*name*/ 'كتاب شجاعة أن تكون غير محبوب',
         /*have*/ 'مجموعة مؤلفين',
         /*page*/ 'html/كتاب_شجاعة_أن_تكون_غير_محبوب.html'
