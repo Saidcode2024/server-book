@@ -22,6 +22,12 @@ server_books[0] = [
         /*have*/ 'مجموعة مؤلفين',
         /*page*/ 'html/كتاب_شجاعة_أن_تكون_غير_محبوب.html'
     ] ,
+    /*n3*/ [
+        /*img*/  img_load + '1G2rvPzXlfRj6CHKK_sSgezpsP3PuWMpW&sz=w452-h678' ,
+        /*name*/ 'كتاب خذها بقوة',
+        /*have*/ 'حسام عبد العزيز',
+        /*page*/ 'html/كتاب_خذها_بقوة.html'
+    ] ,
 ]
 // n1
 server_books[1] = [
@@ -36,6 +42,12 @@ server_books[1] = [
         /*name*/ 'كتاب شجاعة أن تكون غير محبوب',
         /*have*/ 'مجموعة مؤلفين',
         /*page*/ 'html/كتاب_شجاعة_أن_تكون_غير_محبوب.html'
+    ] ,
+    /*n3*/ [
+        /*img*/  img_load + '1G2rvPzXlfRj6CHKK_sSgezpsP3PuWMpW&sz=w452-h678' ,
+        /*name*/ 'كتاب خذها بقوة',
+        /*have*/ 'حسام عبد العزيز',
+        /*page*/ 'html/كتاب_خذها_بقوة.html'
     ] ,
 ]
 // n2
