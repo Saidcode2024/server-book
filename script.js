@@ -28,6 +28,12 @@ server_books[0] = [
         /*have*/ 'حسام عبد العزيز',
         /*page*/ 'html/كتاب_خذها_بقوة.html'
     ] ,
+    /*n4*/ [
+        /*img*/  img_load + '1IMLxSPpx17Sr7dxLmG4Xko9bGiXgxhd0&sz=w307-h455' ,
+        /*name*/ 'كتاب علم النفس الأسود',
+        /*have*/ 'د. محمد عبد العال',
+        /*page*/ 'html/كتاب_علم_النفس_الأسود.html'
+    ] ,
 ]
 // n1
 server_books[1] = [
@@ -52,7 +58,12 @@ server_books[1] = [
 ]
 // n2
 server_books[2] = [
-
+    /*n1*/ [
+        /*img*/  img_load + '1IMLxSPpx17Sr7dxLmG4Xko9bGiXgxhd0&sz=w307-h455' ,
+        /*name*/ 'كتاب علم النفس الأسود',
+        /*have*/ 'د. محمد عبد العال',
+        /*page*/ 'html/كتاب_علم_النفس_الأسود.html'
+    ] ,
 ]
 // n3
 server_books[3] = [
