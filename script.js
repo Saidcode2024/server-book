@@ -2,7 +2,7 @@ var server_filter = [
     /*n0*/ 'كتب تهمك',
     /*n1*/ 'التنمية البشرية وتطوير الذات',
     /*n2*/ 'علم النفس',
-    /*n3*/ 'الشعر',
+    /*n3*/ 'الروايات',
     /*n4*/ 'التاريخ والحضارات',
     /*n5*/ 'العلوم الاسلامية',
 ]
@@ -33,6 +33,12 @@ server_books[0] = [
         /*name*/ 'كتاب علم النفس الأسود',
         /*have*/ 'د. محمد عبد العال',
         /*page*/ 'html/كتاب_علم_النفس_الأسود.html'
+    ] ,
+    /*n5*/ [
+        /*img*/  img_load + '1JF8PYiYYAWMzzbOoTWbamcxK_GUGXQYX&sz=w679-h1000' ,
+        /*name*/ 'رواية أحدب نوتردام',
+        /*have*/ 'فيكتور هيجو',
+        /*page*/ 'html/رواية_أحدب_نوتردام.html'
     ] ,
 ]
 // n1
@@ -67,7 +73,12 @@ server_books[2] = [
 ]
 // n3
 server_books[3] = [
-
+    /*n1*/ [
+        /*img*/  img_load + '1JF8PYiYYAWMzzbOoTWbamcxK_GUGXQYX&sz=w679-h1000' ,
+        /*name*/ 'رواية أحدب نوتردام',
+        /*have*/ 'فيكتور هيجو',
+        /*page*/ 'html/رواية_أحدب_نوتردام.html'
+    ] ,
 ]
 // n4
 server_books[4] = [
